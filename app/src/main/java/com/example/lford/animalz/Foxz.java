@@ -27,6 +27,6 @@ public class Foxz extends Animalz implements Animalz.Funz {
 
     @Override
     public String Playz() {
-        return null;
+        return ("The fox likes to where bandanas and swipe from children.");
     }
 }

@@ -4,7 +4,7 @@ public class Duckz extends Animalz implements Animalz.Funz {
 
     @Override
     public String Sayz() {
-        return("got any grapes?");
+        return("Got any grapes?");
     }
     public Duckz(){
 
